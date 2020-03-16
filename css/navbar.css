@@ -1,0 +1,17 @@
+.navbar{
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+    
+}
+
+.navbar-brand{
+    color: #ff5c62 !important;
+    font-weight: 600;
+}
+
+.nav-link{
+    color: rgb(88, 88, 88);
+    font-weight: 500;
+}
+

@@ -1,0 +1,58 @@
+.heroSection{
+    margin-top: 54px;
+    background-color: #343a40 ;
+    padding-bottom: 3rem;
+    
+}
+
+
+.heroSection p{
+    text-align: justify;
+}
+
+
+
+
+
+
+
+.heroSection img{
+    max-width: 300px;
+    max-height: 300px;
+    margin: 50px auto 0 auto;
+    
+}
+
+
+
+.textcontainer{
+    max-width: 400px;
+    clear: both;
+    align-self: center;
+    color: gray;
+}
+
+
+@media all and (min-width:762px)
+{
+    .container{
+        display: flex;
+    }
+
+    .heroSection img{
+        max-width: 400px;
+        max-height: 400px;
+        float: left;
+        margin: 50px;
+    }
+
+
+    .textcontainer{
+        max-width: 400px;
+        float: left;
+        align-self: center;
+        color: gray;
+    }
+    
+
+}

@@ -1,0 +1,50 @@
+/*@media only screen*/
+/*and (min-width : 1224px) {*/
+/*    !* Styles *!*/
+/*    .section{*/
+/*        height: 85vh !important;*/
+/*        min-height: 50vh;*/
+/*    }*/
+
+
+.form-container{
+    max-width:500px ;
+    width: 70%;
+    border: 1px lightblue solid;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    /*background-color: #282c34;*/
+    background-color: #343A40;;
+    border-radius: 20px;
+    color: #d8d8d8;
+}
+
+.form{
+    color: white;
+}
+
+.input{
+    margin: 5px 10px;
+    height: 30px;
+    max-width:500px ;
+    width: 70%;
+}
+
+.textarea{
+    width: 70%;
+    margin-top: 10px;
+    line-height: normal;
+    height: 150px;
+}
+
+.ourbtn{
+    background-color: #F1586A;
+    height: 40px;
+
+    width: 100px;
+    line-height: 10px;
+    color: white;
+    border-radius: 10px;
+    border: 0px solid #F1586A !important;
+}

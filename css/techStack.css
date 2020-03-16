@@ -1,0 +1,21 @@
+.techicon {
+    font-size: 6rem;
+    padding: 15px;
+
+    color: #F1586A;
+}
+
+.techtext {
+    font-size: 2rem;
+    color: #F1586A;
+}
+
+#techrow {
+    line-height: 50px;
+}
+
+@media all and (min-width:768px) {
+    #techrow {
+        height: 80%;
+    }
+}

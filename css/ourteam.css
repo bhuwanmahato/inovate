@@ -1,0 +1,21 @@
+#ourteam img{
+    display: block;
+    width: 300px;
+    max-width: 80%;
+    margin: 20px auto;
+}
+
+.imageContainer{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+@media all and (min-width:762px)
+{
+    #ourteam img{
+        
+        margin: 20px ;
+    }
+}
