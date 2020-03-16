@@ -7,7 +7,7 @@ html{
 
 
 i{
-    color: #ff5c62;
+    color: #ff8a65;
 }
 .section{
 width: 100%;
@@ -29,14 +29,17 @@ width: 100%;
 
 .footer{
     height: 10vh;
-    background-color: #343a40;
+    background-color: #263238;
     align-items: center;
     justify-content: center;
     margin-top: 2rem;
+    font-family: fa5-proxima-nova,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: x-small;
+    color: #868e96 !important;
 }
 
 .footer .fa-heart{
-    color: #ff5c62;
+    color: #ff8a65;
 }
 
 
@@ -58,8 +61,8 @@ width: 100%;
     position: fixed;
     bottom: 5px;
     right: 5px;
-    font-size: 50px;
-    color: blue;
+    font-size: 40px;
+    color: #2196f3;
     transform: rotate(-45deg);
 }
 

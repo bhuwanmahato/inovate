@@ -1,13 +1,20 @@
+.techSection{
+    
+    margin-top: 80px;
+    background-color: #263238 ;
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+}
 .techicon {
-    font-size: 6rem;
-    padding: 15px;
+    font-size: 5rem;
+    padding: 10px;
 
-    color: #F1586A;
+    color: #808080;
 }
 
 .techtext {
-    font-size: 2rem;
-    color: #F1586A;
+    font-size: 1rem;
+    color: #2196f3;
 }
 
 #techrow {
@@ -18,4 +25,8 @@
     #techrow {
         height: 80%;
     }
+}
+.d-flex {
+    display: -ms-flexbox!important;
+    display: flex!important;
 }

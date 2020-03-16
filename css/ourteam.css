@@ -1,3 +1,10 @@
+.teamSection{
+    margin-top: 54px;
+    background-color: #ffff ;
+    padding-bottom: 3rem;
+    
+}
+
 #ourteam img{
     display: block;
     width: 300px;
